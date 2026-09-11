@@ -9,8 +9,5 @@ class Solution {
             s[j] = temp;
             i ++;
         }
-       for(i = 0; i<n ; i++){
-        System.out.print(s[i] + " ");
-       }
     }
 }
