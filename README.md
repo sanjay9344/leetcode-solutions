@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sanjay9344/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/sanjay9344/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sanjay9344/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/sanjay9344/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/sanjay9344/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sanjay9344/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/sanjay9344/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sanjay9344/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/sanjay9344/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/sanjay9344/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 ## Prefix Sum
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sanjay9344/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/sanjay9344/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
