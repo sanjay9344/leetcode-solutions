@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sanjay9344/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/sanjay9344/leetcode-solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/sanjay9344/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sanjay9344/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Two Pointers
 |  |
 | ------- |
