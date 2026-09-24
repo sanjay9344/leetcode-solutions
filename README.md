@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanjay9344/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/sanjay9344/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjay9344/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanjay9344/leetcode-solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/sanjay9344/leetcode-solutions/tree/master/0066-plus-one) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanjay9344/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/sanjay9344/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjay9344/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanjay9344/leetcode-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/sanjay9344/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/sanjay9344/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0414-third-maximum-number](https://github.com/sanjay9344/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sanjay9344/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/sanjay9344/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
