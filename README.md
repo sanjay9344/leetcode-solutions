@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjay9344/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sanjay9344/leetcode-solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjay9344/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/sanjay9344/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/sanjay9344/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/sanjay9344/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanjay9344/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/sanjay9344/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/sanjay9344/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sanjay9344/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/sanjay9344/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sanjay9344/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/sanjay9344/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanjay9344/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sanjay9344/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1051-height-checker](https://github.com/sanjay9344/leetcode-solutions/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanjay9344/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sanjay9344/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanjay9344/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Greedy
 |  |
@@ -100,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sanjay9344/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sanjay9344/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
