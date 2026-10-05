@@ -1,16 +1,12 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        HashMap<Character,Integer> map = new HashMap<>();
-        for(int i = 0 ;i < s.length(); i++){
-       map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
-        }  
-        for(int i = 0;i <t.length();i++){
-          char c = t.charAt(i);
-          if(!map.containsKey(c) || map.get(c) ==0){
-            return c;
-          }
-          map.put(c,map.get(c) -1);
-        } 
-        return 0;
+       int result =0;
+       for(char c : s.toCharArray()){
+         result = result ^ c;
+       }
+        for(char c : t.toCharArray()){
+         result = result ^ c;
+       }
+       return (char) result;
  }
 }
