@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sanjay9344/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sanjay9344/leetcode-solutions/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/sanjay9344/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sanjay9344/leetcode-solutions/tree/master/0268-missing-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sanjay9344/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/sanjay9344/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -153,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/sanjay9344/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sanjay9344/leetcode-solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sanjay9344/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
