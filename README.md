@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sanjay9344/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanjay9344/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sanjay9344/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sanjay9344/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2965-find-missing-and-repeated-values](https://github.com/sanjay9344/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanjay9344/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sanjay9344/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjay9344/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sanjay9344/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sanjay9344/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Counting Sort
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sanjay9344/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjay9344/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/sanjay9344/leetcode-solutions/tree/master/1051-height-checker) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sanjay9344/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Bubble Sort
 |  |
 | ------- |
