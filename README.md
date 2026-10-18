@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sanjay9344/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjay9344/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sanjay9344/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [2351-first-letter-to-appear-twice](https://github.com/sanjay9344/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sanjay9344/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Counting Sort
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sanjay9344/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjay9344/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/sanjay9344/leetcode-solutions/tree/master/1051-height-checker) |
+| [2351-first-letter-to-appear-twice](https://github.com/sanjay9344/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sanjay9344/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Bubble Sort
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sanjay9344/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sanjay9344/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sanjay9344/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/sanjay9344/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2965-find-missing-and-repeated-values](https://github.com/sanjay9344/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sanjay9344/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sanjay9344/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sanjay9344/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [2351-first-letter-to-appear-twice](https://github.com/sanjay9344/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
 |  |
 | ------- |
